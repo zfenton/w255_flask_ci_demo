@@ -1,0 +1,5 @@
+flask==2.2.2
+flask_cors
+flask_restful
+flasgger
+Werkzeug==2.3.7
