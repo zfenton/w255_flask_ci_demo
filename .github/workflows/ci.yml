@@ -29,4 +29,5 @@ jobs:
 
       # install actual unit tests
       - name: Test with unittest
-        run: | -m unittest tests.test_root
+        run: |
+          python3 -m unittest tests.test_root
